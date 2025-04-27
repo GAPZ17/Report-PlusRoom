@@ -449,5 +449,11 @@ Una vez ya redactadas todas las User Stories, debemos priorizarlas. El Product B
 ## ` `Impact Mapping
 Impact Mapping es una metodología que ayuda de una forma visual a pensar en las metas que realmente queremos lograr para tener el alcance de nuestros usuarios. Por ello, usamos esta herramienta con el fin de establecer enfoque y alcanzar las metas de nuestro objetivo principal. De tal manera, al final del mapa mental identificamos las acciones y funcionalidades que debemos llevar a cabo para formar el proyecto de manera eficiente.
 
+![Impact Mapping](./images/imagen1cap3.png "Mapa de Impacto")
+
+
+
 Business Goal:
 Que el 90% de los usuarios que busquen arrendar un inmueble lo encuentren en la aplicación móvil.
+
+![Impact Mapping](./images/imagen2cap3.png "Mapa de Impacto")
